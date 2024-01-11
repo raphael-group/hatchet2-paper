@@ -2,8 +2,8 @@ HATCHet is an algorithm to infer haplotype- and clone-specific copy-number aberr
 
 # Overview
 This repository contains supporting data for the results that accompany the HATCHet2 paper. It contains HATCHet2 results on the following datasets:
-* `mascote-multisample`: HATCHet and HATCHEt2 results on MASCoTe simulated datasets from the [original HATCHet paper](https://www.nature.com/articles/s41467-020-17967-y) (available in the [HATCHet publication repository](https://github.com/raphael-group/hatchet-paper)) from both HATCHet and HATCHet2.
-* `mascote-singlesample`: HATCHet and HATCHet2 results on the same MASCoTe simulated datasets but with each sample treated as an independent dataset.
+* `mascote-multisample`: HATCHet and HATCHEt2 results on 8 MASCoTe simulated datasets from the [original HATCHet paper](https://www.nature.com/articles/s41467-020-17967-y) (available in the [HATCHet publication repository](https://github.com/raphael-group/hatchet-paper)) from both HATCHet and HATCHet2.
+* `mascote-singlesample`: HATCHet and HATCHet2 results on the same MASCoTe simulated datasets but with each sample treated as an independent dataset (total of 32).
 * `gundem`: 50 whole-genome sequencing samples in total from 10 patients with prostate cancer from the Gundem et al., 2015 study. Data availability is described in the [original publication](https://www.nature.com/articles/nature14347).
 * `10x`: 10x Genomics single-cell breast cancer dataset: about 10500 cells total from low-coverage single-cell whole-genome sequencing from 5 sections of a breast tumor. Described in an [application note on the 10x website](https://pages.10xgenomics.com/rs/446-PBO-704/images/10x_AN026_SCCNV_Assessing_Tumor%20Heterogeneity_digital.pdf).
 
